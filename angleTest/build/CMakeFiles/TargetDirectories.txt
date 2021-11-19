@@ -1,3 +1,0 @@
-/home/coshe/桌面/check/build/CMakeFiles/rebuild_cache.dir
-/home/coshe/桌面/check/build/CMakeFiles/edit_cache.dir
-/home/coshe/桌面/check/build/CMakeFiles/DEMO.dir
